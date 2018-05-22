@@ -1,4 +1,4 @@
-name := "credit-card-fraud-analysis-using-spark"
+name := "spark-ml-pipelines-with-structured-streaming-examples"
 
 version := "0.1.0-SNAPSHOT"
 
