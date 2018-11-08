@@ -1,5 +1,5 @@
 # spark-ml-pipelines-with-structured-streaming-examples
-Examples of using Apache Spark MLlib Pipelines and Structured Streaming on version 2.3.0
+Examples of using Apache Spark MLlib Pipelines and Structured Streaming on version 2.4.0
 
 # Credit card fraud analysis
 
